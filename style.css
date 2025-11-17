@@ -1,0 +1,88 @@
+.ota {
+    background-color: black;
+    margin-left: 230px;
+    display: flex;
+    justify-content: center;
+    gap: 1100px;
+    width: 1440px;
+    justify-content: space-evenly;
+}
+
+.ota2 {
+    display: flex;
+    margin-left: 0px;
+    padding: 15px;
+    gap: 20px;
+}
+
+.bt {
+    width: 90px;
+    height: 40px;
+    background-color: #F1A900;
+}
+
+.op {
+    background-color: black;
+    color: #FFFF;
+    border: 0px solid black;
+}
+
+.poo {
+    width: 1440px;
+    height: 44px;
+    background-color: #222222;
+    margin-left: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #FFFF;
+}
+.p2:hover{
+    scale: calc(1.5);
+    color: rgb(91, 91, 211);
+}
+.rasm {
+    width: 1440px;
+    height: 790px;
+    background-image: url(./image\ 5.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.OPPP {
+    background-color:#222222;
+    color: #FFFF;
+    border: 0px solid black;
+}
+.butt{
+    width: 200px;
+    height: 50px;
+    color: black;
+    background-color: #F1A900;
+    text-align: center;
+    justify-content: center;
+}
+.butt2{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    color:white;
+    background-color: black;
+}
+.emil{
+    color: #FFFF;
+    background-color: #F1A90054;
+    width: 600px;
+    height: 150px;
+    text-align: center;
+    flex-direction:row-reverse;
+    justify-content: center;
+}
+.rasm_box{
+    display: flex;
+}
