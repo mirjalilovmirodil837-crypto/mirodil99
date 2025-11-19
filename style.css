@@ -39,7 +39,7 @@
 }
 .p2:hover{
     scale: calc(1.5);
-    color: rgb(91, 91, 211);
+    color:#F1A900;
 }
 .rasm {
     width: 1440px;
@@ -85,4 +85,5 @@
 }
 .rasm_box{
     display: flex;
+
 }
